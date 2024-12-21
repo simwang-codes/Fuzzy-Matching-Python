@@ -14,5 +14,8 @@
   
   The result you get will resemble the processed test sample named "fuzzy_matching_results.xlsx" in the "Excel Files" folder.
 
+### More about thefuzz
+  If you want to further customize this script, check out [thefuzz](https://github.com/seatgeek/thefuzz) for more methods and details.
+
 ## *Author Name*
 [Sim Wang](https://github.com/simwang-codes)
