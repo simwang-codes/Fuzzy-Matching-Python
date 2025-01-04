@@ -1,5 +1,5 @@
 # Fuzzy Matching Script: Matching names from two Excel files using fuzzy matching techniques. 
-#Great for B2B or marketing research tasks
+# Great for B2B or marketing research tasks
 
 from thefuzz import fuzz, process
 import pandas as pd
