@@ -10,7 +10,7 @@
 
   1. Name your Excel files "A_list.xlsx" and "B_list.xlsx", or you can use the test sample in the "Excel Files" folder.
   
-  2. Download "fuzzymatching.py" from the "Python Scripts" folder. Navigate to the directory containing the script, then type python3 fuzzymatching.py to run it.
+  2. Download "fuzzy_matching.py" from the "Python Scripts" folder. Navigate to the directory containing the script, then type python3 fuzzymatching.py to run it.
   
   The result you get will resemble the processed test sample named "fuzzy_matching_results.xlsx" in the "Excel Files" folder.
 
